@@ -5,7 +5,7 @@ This small snippet offers the possibility to get Abuse mail addresses from IPv4 
 
 Eg.:
 ```
-getAbuseEmail(1.1.1.1)
+echo getAbuseEmail(1.1.1.1);
 
-> resolver-abuse@cloudflare.com
+// resolver-abuse@cloudflare.com
 ```
