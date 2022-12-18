@@ -40,5 +40,5 @@ function getAbuseEmail($ip) {
   
   // Return found Abuse email address
   return trim($matches[1]);
-  
+}
 ?>
