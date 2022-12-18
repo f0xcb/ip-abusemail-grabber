@@ -1,1 +1,3 @@
-# ip-abusemail-grabber
+# IPv4 & IPv6 Abusemail grabber
+
+This small snippet offers the possibility to get Abuse mail addresses from IPv4 and IPv6 addresses.
